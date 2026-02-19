@@ -8,5 +8,5 @@ jobs:
   say-hello:
     runs-on: ubuntu-latest
     steps:
-      -name: Print greeting
-       run: echo "Hello from Pankaj Github Action Learning"
+      - name: Print greeting
+        run: echo "Hello from Pankaj Github Action Learning"
